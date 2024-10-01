@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1 class="mb-4">Admin - Bibliographies</h1>
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Validated by Faculty</th>
+                <th>Validated by Admin</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for bibliography in bibliographies %}
+            <tr>
+                <td>{{ bibliography.id }}</td>
+                <td>
+                    <a href="{{ url_for('routes.view_user_bibliography', user_id=bibliography.user_id) }}">
+                        {{ bibliography.title }}
+                    </a>
+                </td>
+                <td>{{ 'Yes' if bibliography.is_validated_by_faculty else 'No' }}</td>
+                <td>{{ 'Yes' if bibliography.is_validated_by_admin else 'No' }}</td>
+                <td>
+                    <form method="POST" action="{{ url_for('routes.validate_bibliography', id=bibliography.id) }}">
+                        <button type="submit" class="btn btn-sm btn-primary">
+                            {{ 'Unvalidate' if bibliography.is_validated_by_admin else 'Validate' }}
+                        </button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

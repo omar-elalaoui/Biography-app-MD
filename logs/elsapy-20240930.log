@@ -1,0 +1,209 @@
+2024-09-30 16:37:21,741 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:45:45,254 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:52:28,791 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:52:43,598 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:53:03,971 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:53:04,238 - elsapy.utils - INFO - Module loaded.
+2024-09-30 16:53:04,238 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 16:53:04,239 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 16:53:04,240 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 16:53:04,240 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 16:53:04,698 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 16:53:04,992 - elsapy.utils - INFO - Module loaded.
+2024-09-30 16:53:04,992 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 16:53:04,993 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 16:53:04,993 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 16:53:04,993 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 16:56:50,834 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Bruno%29+AUTHFIRST%28G%C3%A9rard%29
+2024-09-30 16:58:44,278 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 17:07:09,919 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:07:10,776 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:07:10,776 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:07:10,778 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:07:10,778 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:07:10,779 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:07:19,474 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:07:19,824 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:07:19,825 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:07:19,825 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:07:19,825 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:07:19,825 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:09:21,651 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:09:21,972 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:09:21,972 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:09:21,973 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:09:21,973 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:09:21,973 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:09:24,617 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:09:25,026 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:09:25,026 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:09:25,027 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:09:25,027 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:09:25,028 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:09:47,330 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:09:47,595 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:09:47,595 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:09:47,596 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:09:47,596 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:09:47,596 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:09:48,133 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:09:48,436 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:09:48,436 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:09:48,437 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:09:48,437 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:09:48,437 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:13:39,356 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:13:40,658 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:13:40,659 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:13:40,659 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:13:40,660 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:13:40,661 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:18:45,937 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 17:45:03,948 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 17:54:37,343 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:54:38,919 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:54:38,919 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:54:38,921 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:54:38,921 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:54:38,922 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:57:41,566 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 17:57:42,717 - elsapy.utils - INFO - Module loaded.
+2024-09-30 17:57:42,718 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 17:57:42,719 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 17:57:42,719 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 17:57:42,720 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 17:59:49,229 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 17:59:52,966 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 17:59:55,407 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 17:59:56,582 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:12:28,019 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 18:12:39,094 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:12:41,047 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:12:41,819 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:15:58,896 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:15:59,866 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:15:59,866 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:15:59,867 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:15:59,867 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:15:59,868 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 18:16:24,102 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 18:16:26,615 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:16:29,091 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:16:29,847 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:18:37,636 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:18:38,153 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:18:38,153 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:18:38,154 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:18:38,155 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:18:38,155 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 18:18:38,832 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:18:39,316 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:18:39,317 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:18:39,318 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:18:39,318 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:18:39,318 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 18:19:03,452 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 18:19:06,642 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:19:08,639 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:19:09,278 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:21:20,515 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%28123%29
+2024-09-30 18:21:54,727 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:21:57,085 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:21:57,756 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:23:33,860 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:23:35,794 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:23:36,555 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:24:43,359 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:24:44,135 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:24:44,135 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:24:44,136 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:24:44,137 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:24:44,137 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 18:24:44,953 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:24:45,571 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:24:45,571 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:24:45,573 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:24:45,574 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:24:45,575 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 18:24:57,654 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 18:25:01,344 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:25:03,346 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:25:04,098 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:25:10,204 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?query=AU-ID%2814053535300%29
+2024-09-30 18:25:12,109 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scopus?start=25&count=25&query=AU-ID%2814053535300%29
+2024-09-30 18:25:12,797 - elsapy.utils - INFO - Converting prism:coverDate
+2024-09-30 18:25:33,053 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 18:25:33,448 - elsapy.utils - INFO - Module loaded.
+2024-09-30 18:25:33,449 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 18:25:33,450 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 18:25:33,451 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 18:25:33,451 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 22:41:15,479 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 22:42:45,679 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 22:43:04,340 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/author?query=AUTHLASTNAME%28Abida%29+AUTHFIRST%28Otman%29
+2024-09-30 23:08:45,083 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:08:46,445 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:08:46,446 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:08:46,448 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:08:46,448 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:08:46,449 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:09:51,836 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:09:52,237 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:09:52,237 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:09:52,238 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:09:52,239 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:09:52,239 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:09:52,937 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:09:53,552 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:09:53,553 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:09:53,554 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:09:53,555 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:09:53,555 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:22:19,614 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:22:20,490 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:22:20,491 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:22:20,492 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:22:20,493 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:22:20,495 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:27:31,480 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:27:32,666 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:27:32,666 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:27:32,669 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:27:32,669 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:27:32,670 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:43:47,023 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:43:48,415 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:43:48,416 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:43:48,418 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:43:48,418 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:43:48,419 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:44:05,193 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:44:05,471 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:44:05,471 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:44:05,472 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:44:05,472 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:44:05,472 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:44:43,368 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:44:44,419 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:44:44,419 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:44:44,420 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:44:44,420 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:44:44,420 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:44:46,243 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:44:46,570 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:44:46,571 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:44:46,571 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:44:46,571 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:44:46,571 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:47:42,961 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:47:43,495 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:47:43,495 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:47:43,496 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:47:43,496 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:47:43,497 - elsapy.elsdoc - INFO - Module loaded.
+2024-09-30 23:56:32,998 - elsapy.elsclient - INFO - Module loaded.
+2024-09-30 23:56:33,674 - elsapy.utils - INFO - Module loaded.
+2024-09-30 23:56:33,674 - elsapy.elssearch - INFO - Module loaded.
+2024-09-30 23:56:33,675 - elsapy.elsentity - INFO - Module loaded.
+2024-09-30 23:56:33,675 - elsapy.elsprofile - INFO - Module loaded.
+2024-09-30 23:56:33,675 - elsapy.elsdoc - INFO - Module loaded.

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2>Dashboard</h2>
+
+<!-- Image Upload Form -->
+<form method="post" enctype="multipart/form-data">
+  <div class="form-group">
+    <label for="image_file">Upload Image</label>
+    <input type="file" class="form-control-file" id="image_file" name="image_file">
+  </div>
+  <button type="submit" class="btn btn-primary">Update Image</button>
+</form>
+
+{% if image_file %}
+<div class="my-4">
+  <img src="{{ url_for('static', filename='images/' ~ image_file) }}" alt="Image" style="max-width: 100%;">
+</div>
+{% endif %}
+
+<a href="{{ url_for('routes.new_bibliography') }}" class="btn btn-primary mb-3">Add New Bibliography</a>
+<div class="list-group">
+  {% for biblio in bibliographies %}
+  <div class="list-group-item">
+    <h5>{{ biblio.title }}</h5>
+    <pre style="white-space: pre-wrap;">{{ biblio.content }}</pre>
+    <a href="{{ url_for('routes.edit_bibliography', id=biblio.id) }}" class="btn btn-secondary">Edit</a>
+    <form action="{{ url_for('routes.delete_bibliography', id=biblio.id) }}" method="post" style="display:inline;">
+      <button type="submit" class="btn btn-danger">Delete</button>
+    </form>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}
